@@ -1,0 +1,2 @@
+--Fui colocar o projeto no github e ele tava demorando pra upar tudo com o projeto e flutter, então estou upando somente o arquivo dart.main onde fiz toda a prova dentro dele.
+-- Os botões dão aviso no terminal
